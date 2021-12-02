@@ -56,19 +56,24 @@ print(b)
 c=a+b
 print(c)
 
-berikut ini adalah screenshot hasil output :
+# berikut ini adalah screenshot hasil output :
 
 <img width="727" alt="outputss1" src="https://user-images.githubusercontent.com/92905452/144408158-cb9005ba-390c-4935-88fa-c21608f59dc9.png">
 
 # flowchart
+
 pertama sebelum membuat program saya membuat flowchart terlebih dahulu
 berikut flowchart yang telah dibuat
 
+<img width="579" alt="flowchart" src="https://user-images.githubusercontent.com/92905452/144409096-99dccfe8-3bdb-4747-9270-ee89c9a3874b.png">
 
 pertama saya membuat inputan dan looping agar program terus berjalan
+
 while true:
     c = input("apakah ingin menambah data? y/t ")
+
 lalu saya membuat fungsi if apabila menginput 'y'
+
 if (c.lower() == 'y'):                                               
         print('\nTambah Data Mahasiswa Baru')
         nama= input("Masukkan Nama\t\t: ")                                        
@@ -79,7 +84,9 @@ if (c.lower() == 'y'):
         nilaiAkhir= (0.30 * nilaiTugas) + (0.35 * nilaiUts) + (0.35 * nilaiUas)              
         data[nama]= nim, nilaiTugas, nilaiUts, nilaiUas, nilaiAkhir                         
         print("\nData Berhasil Ditambahkan!")
+
 saya juga membuat percabangan if untuk apabila menginput 't'
+
 elif (c.lower() == 't'):                                                                    
         if data.items():                                                                     
             print("\n                      DAFTAR NILAI MAHASISWA                    ")
@@ -98,6 +105,11 @@ elif (c.lower() == 't'):
             print("==================================================================")
             print("|                          TIDAK ADA DATA!                       |")
             print("==================================================================")
+
 dan saya menambahan else untuk menyetop loopingan tadi
+
 else:
     break
+
+# berikut ini adalah screenshot hasil output :
+

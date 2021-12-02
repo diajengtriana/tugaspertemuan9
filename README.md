@@ -30,7 +30,6 @@ dari soalan diatas saya menjawab dengan cara sebagai berikut:
 
 a [3] = 5
 print (a)
-
 a [3:5] = 3, 4
 print(a)
 
@@ -47,21 +46,13 @@ gabungkan list B dengan list A
 dari soal diatas saya menjawab dengan cara sebagai berikut
 
 b = []
-
 b.extend (a[0:2])
-
 print(b)
-
 b.append ('delapan')
-
 print(b)
-
 b.extend([9, 10, 11])
-
 print(b)
-
 c=a+b
-
 print(c)
 
 berikut ini adalah screenshot pada visual studio code

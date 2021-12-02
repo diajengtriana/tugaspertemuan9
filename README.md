@@ -14,12 +14,11 @@ ambil elemen terakhir\
 dari soal diatas saya mengerjakan dengan cara sebagai berikut:
 
 1. a[2]
-
 2. del a[1:4]
     print(a)
-
 3. del a[1] 
     print(a)
+
 
 ketiga pada ubah element list saya diberikan 2 soalan
 

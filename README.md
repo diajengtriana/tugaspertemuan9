@@ -1,4 +1,6 @@
-# tugaspertemuan9
+# Tugas pertemuan 9
+# Nama  : Diajeng triana k.
+# NIM   : 312110474
 pertama adalah membuat list dengan 5 elemen saya membuat list
 
 a = [6, 7, 8, 9, 10]
@@ -18,7 +20,6 @@ dari soal diatas saya mengerjakan dengan cara sebagai berikut:
     print(a)
 3. del a[1] 
     print(a)
-
 
 ketiga pada ubah element list saya diberikan 2 soalan
 
@@ -55,4 +56,7 @@ print(b)
 c=a+b
 print(c)
 
-berikut ini adalah screenshot pada visual studio code
+berikut ini adalah screenshot hasil output :
+
+<img width="727" alt="outputss1" src="https://user-images.githubusercontent.com/92905452/144408158-cb9005ba-390c-4935-88fa-c21608f59dc9.png">
+

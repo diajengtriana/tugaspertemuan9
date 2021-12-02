@@ -113,3 +113,4 @@ else:
 
 # berikut ini adalah screenshot hasil output :
 
+<img width="791" alt="outputss2" src="https://user-images.githubusercontent.com/92905452/144409564-78505428-a5e7-43a3-a5b0-b4ec7f7d10b5.png">
